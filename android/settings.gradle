@@ -1,0 +1,3 @@
+rootProject.name = 'react_course'
+
+include ':app'
